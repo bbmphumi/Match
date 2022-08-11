@@ -1,0 +1,15 @@
+{
+  "name": "good-matchv1",
+  "version": "1.0.0",
+  "description": "This is the first version of good match",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [  "cli"],  
+  "bin": {  
+    "good-match": "./bin/index.js"  
+       },  
+  "author": "Phumzile Mahlangu",
+  "license": "ISC"
+}
